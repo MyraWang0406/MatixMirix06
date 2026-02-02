@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.db
+.idea/
+.vscode/
+*.zip
+creative_eval_demo_no_venv_patch/
+昨晚好的版本效果*.png
